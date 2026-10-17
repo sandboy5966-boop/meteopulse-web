@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sandboy5966-boop.github.io/meteopulse-web/sitemap.xml
